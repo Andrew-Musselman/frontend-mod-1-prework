@@ -95,7 +95,7 @@ var attendees = 9;
 var meals = 8;
 console.log('4', attendees !== meals);
 // YOU DO: Explain.
-// This code is assigning the numberical value 9 to the variable attendees and the numberical value 8 to the variables
+// This code is assigning the numerical value 9 to the variable attendees and the numberical value 8 to the variables
 // meals, it is then using the strictly non equality comparison operator to ask if the variable attendees is not equal
 // to the variable meals. This should return true.
 
@@ -142,4 +142,4 @@ console.log(lovesToPlay && age <= 1); //true
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect? I ran all this code in my terminal and it printed out as I expected
-// It did throw an error when I tried to write <== instead of <=, but I fixed it. 
+// It did throw an error when I tried to write <== instead of <=, but I fixed it.
